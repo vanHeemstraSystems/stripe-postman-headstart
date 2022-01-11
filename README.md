@@ -66,6 +66,8 @@ Complete the following fields as follows:
 
 Stripe API - Fork collection
 
+You can check ```Watch original collection```, if you so please. It is not mandatory.
+
 Next, click the **Fork Collection** button.
 
 
