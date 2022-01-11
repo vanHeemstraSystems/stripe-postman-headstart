@@ -144,6 +144,19 @@ For example:
 - Expire a Session
 - Retrieve a Session's line items
 
+And all the requests represent the actions you can take against this API.
+
+So, in the case of ```Checkout```, which we will be using in a moment, you can retrieve for eaxmple the line items (which are the products that you are selling).
+
+For more information on Checkouts, checkout (pun intended) the video on [Stripe Checkout](https://www.youtube.com/watch?v=UjcSWxPNo18) on Stripe's YouTube Channel.
+
+So, let's create a Checkout Session>
+
+
+
+
+
+
 
 
 == WE ARE HERE ==
