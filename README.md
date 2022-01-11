@@ -82,14 +82,23 @@ Here you can decide to agree, then click the **Make Profile Public** button.
 
 After some time, the Stripe API (here: My StripeDev Fork) will appear in your Postman Workspace (here: My Workspace).
 
+![image](https://user-images.githubusercontent.com/12828104/148951139-041d4e01-3989-4d80-b857-eaab994ecd2b.png)
+
+## 500 - Forking the Stripe Environment template
+
+Instead of forking the Stripe Environment, we create a new Environment as shown below:
+
+![image](https://user-images.githubusercontent.com/12828104/148951139-041d4e01-3989-4d80-b857-eaab994ecd2b.png)
+
+Stripe - Create Environment
+
+
 
 
 
 
 
 == WE ARE HERE ==
-
-## 500 - Forking the Stripe Environment template
 
 ## 600 - Setting up authentication 
 
