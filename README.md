@@ -192,10 +192,7 @@ As a response we (may) get an error ***400 Bad Request***:
 ```
 {
     "error": {
-        "code": "url_invalid",
-        "doc_url": "https://stripe.com/docs/error-codes/url-invalid",
-        "message": "Not a valid URL",
-        "param": "success_url",
+        "message": "In order to use Checkout, you must set an account or business name at https://dashboard.stripe.com/account.",
         "type": "invalid_request_error"
     }
 }
