@@ -139,7 +139,7 @@ For example:
 **Checkout**:
 
 - List all Checkout Sessions
-- Creat a Session
+- Create a Session
 - Retrieve a Session
 - Expire a Session
 - Retrieve a Session's line items
@@ -151,6 +151,14 @@ So, in the case of ```Checkout```, which we will be using in a moment, you can r
 For more information on Checkouts, checkout (pun intended) the video on [Stripe Checkout](https://www.youtube.com/watch?v=UjcSWxPNo18) on Stripe's YouTube Channel.
 
 So, let's create a Checkout Session>
+
+In order to do so, we click on the "***Create a Session***" request, we navigate to the ```body```:
+
+
+
+Create a Session: body
+
+And then all we have to do is fill out the type of request we are building.
 
 
 
