@@ -13,6 +13,8 @@ Learn how to use the Stripe public Postman collection to make test API calls to 
 
 Make sure you have registered with [Stripe](stripe.com).
 
+Also, make sure you are in **Test Mode**, so not in Production Mode. This is indicated in the dashboard, where you will go next.
+
 Go to the following URL to collect the API secret key: https://dashboard.stripe.com/test/dashboard
 
 It will look something like:
