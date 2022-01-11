@@ -39,10 +39,13 @@ This should open [StripeDev](https://www.postman.com/stripedev) (only when you a
 
 StripeDev Workspace - Stripe API
 
-Click on **Stripe API**, the one without the date.
-
+Click on **Stripe API**, the one without the date. It will open in Postman.
 
 ## 400 - Forking the Stripe API collection
+
+![image](https://user-images.githubusercontent.com/12828104/148943667-575e7086-a0c0-4e2d-a287-a44f28cf3318.png)
+
+Stripe Developers - Stripe API
 
 ## 500 - Forking the Stripe Environment template
 
