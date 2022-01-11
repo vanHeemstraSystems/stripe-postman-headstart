@@ -118,8 +118,11 @@ Go back to the Collections in My Workspace and reselect Stripe API. Make sure yo
 
 Select Stripe Environment Template with the Stripe API Collection.
 
+Replace the value of **Token** by ```{{secret_key}}:
 
+![image](https://user-images.githubusercontent.com/12828104/148960397-d7d4057f-6633-483c-8e0a-84f04924121d.png)
 
+Token as Secret Key
 
 
 
