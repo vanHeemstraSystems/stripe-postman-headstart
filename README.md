@@ -112,6 +112,12 @@ And do not forget to click the **Save** button to save the Stripe Environment Te
 
 ## 600 - Setting up authentication 
 
+Go back to the Collections in My Workspace and reselect Stripe API. Make sure you select **Stripe Environment Template** as the Environment so the secret_key variable is accessible.
+
+![image](https://user-images.githubusercontent.com/12828104/148955792-09d316b1-473c-4ca4-affc-6039136073ea.png)
+
+Select Stripe Environment Template with the Stripe API Collection.
+
 
 
 
