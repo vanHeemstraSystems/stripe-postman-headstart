@@ -11,6 +11,19 @@ Learn how to use the Stripe public Postman collection to make test API calls to 
 
 ## 200 - Getting your API secret key
 
+Make sure you have registered with [Stripe](stripe.com).
+
+Go to the following URL to collect the API secret key: https://dashboard.stripe.com/test/dashboard
+
+It will look something like:
+
+```
+sk_test_............................................................................
+```
+
+
+
+
 ## 300 - The Stripe Dev profile and workspace
 
 ## 400 - Forking the Stripe API collection
