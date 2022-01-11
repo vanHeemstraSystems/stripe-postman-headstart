@@ -154,7 +154,7 @@ So, let's create a Checkout Session>
 
 In order to do so, we click on the "***Create a Session***" request, we navigate to the ```body```:
 
-
+![image](https://user-images.githubusercontent.com/12828104/148966318-6dfaf79e-eae9-4e8b-a107-78d530d67eb8.png)
 
 Create a Session: body
 
