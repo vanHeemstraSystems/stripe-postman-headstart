@@ -102,6 +102,14 @@ Next, we add one variable labeled **secret_key**
 
 Stripe Environment Template - secret_key
 
+Enter in the **Current Value** field, the value of the **Secret Key** as captured from your Stripe's Dashboard earlier.
+
+![image](https://user-images.githubusercontent.com/12828104/148953703-ab507ae1-2443-45a6-95bc-9260698fde44.png)
+
+Stripe Environment Template - Current Value: Secret Key
+
+
+
 
 
 == WE ARE HERE ==
