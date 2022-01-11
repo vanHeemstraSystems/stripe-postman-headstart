@@ -47,6 +47,10 @@ Click on **Stripe API**, the one without the date. It will open in Postman.
 
 Stripe Developers - Stripe API
 
+This is a postman collection covering the Stripe API. See https://stripe.com/docs/api for more details.
+
+== WE ARE HERE ==
+
 ## 500 - Forking the Stripe Environment template
 
 ## 600 - Setting up authentication 
