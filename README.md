@@ -25,11 +25,16 @@ sk_test_........................................................................
 
 ## 300 - The Stripe Dev profile and workspace
 
-Open [Postman](https://www.postman.com/downloads/) and from the search bar look for ***StripeDev***. 
+Make sure you have an account with [Postman](https://www.postman.com/downloads/) and are signed in.
+
+Open [Postman](https://www.postman.com) and from the search bar look for ***StripeDev***. 
 
 ![image](https://user-images.githubusercontent.com/12828104/148941214-df1eb29e-3dab-47cc-a4ae-dda55a4c27a6.png)
 
 Postman StripeDev collection
+
+This should open [StripeDev](https://www.postman.com/stripedev) (only when you are signed into Postman):
+
 
 
 
