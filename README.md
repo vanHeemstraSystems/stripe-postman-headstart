@@ -11,20 +11,20 @@ Learn how to use the Stripe public Postman collection to make test API calls to 
 
 ## 200 - Getting your API secret key
 
-# 300 - The Stripe Dev profile and workspace
+## 300 - The Stripe Dev profile and workspace
 
-# 400 - Forking the Stripe API collection
+## 400 - Forking the Stripe API collection
 
-# 500 - Forking the Stripe Environment template
+## 500 - Forking the Stripe Environment template
 
-# 600 - Setting up authentication 
+## 600 - Setting up authentication 
 
-# 700 - Navigating the collection
+## 700 - Navigating the collection
 
-# 800 - Testing the Stripe Checkout API with Postman
+## 800 - Testing the Stripe Checkout API with Postman
 
-# 900 - Testing the Customers API with Postman
+## 900 - Testing the Customers API with Postman
 
-# 1000 - Using variables
+## 1000 - Using variables
 
-# 1100 - Outro
+## 1100 - Outro
