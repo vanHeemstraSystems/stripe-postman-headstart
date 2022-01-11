@@ -268,8 +268,7 @@ When following the url as given in the response, https://checkout.stripe.com/pay
 
 we will see the form in Stripe, showing our checkout information:
 
-
-
+![image](https://user-images.githubusercontent.com/12828104/148977182-8cdebdcb-c298-42e4-b006-1db0de8f0db4.png)
 
 Stripe Checkout Information
 
