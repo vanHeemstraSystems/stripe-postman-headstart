@@ -124,14 +124,21 @@ Replace the value of **Token** by ```{{secret_key}}```:
 
 Secret Key as Token
 
-Make sure to click the **Save** button afterwards.
+Make sure to click the **Save** button afterwards. 
+
+That's it for setting up the authentication.
+
+## 700 - Navigating the collection
+
+
+
+
+
 
 
 
 
 == WE ARE HERE ==
-
-## 700 - Navigating the collection
 
 ## 800 - Testing the Stripe Checkout API with Postman
 
