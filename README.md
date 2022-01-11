@@ -49,6 +49,18 @@ Stripe Developers - Stripe API
 
 This is a postman collection covering the Stripe API. See https://stripe.com/docs/api for more details.
 
+Create a fork, by opening the dropdown menu from Stripe API as shown below:
+
+![image](https://user-images.githubusercontent.com/12828104/148944568-f62b2580-0adb-44bb-b77f-84438c38fc05.png)
+
+Stripe Developers - Stripe API - Create a fork
+
+
+
+
+
+
+
 == WE ARE HERE ==
 
 ## 500 - Forking the Stripe Environment template
