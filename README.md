@@ -108,8 +108,7 @@ Enter in the **Current Value** field, the value of the **Secret Key** as capture
 
 Stripe Environment Template - Current Value: Secret Key
 
-
-
+And do not forget to click the **Save** button to save the Stripe Environment Template with the Current Value set.
 
 
 == WE ARE HERE ==
