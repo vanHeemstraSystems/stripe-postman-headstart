@@ -198,6 +198,73 @@ As a response we (may) get an error ***400 Bad Request***:
 }
 ```
 
+Set the ***Account name*** as indicated in above error message at https://dashboard.stripe.com/account :
+
+![image](https://user-images.githubusercontent.com/12828104/148975652-34e0510c-ae4d-4030-b813-a23aff561b33.png)
+
+Stripe Account Name (can be anything, here ```MyCompany```)
+
+Save the setting of the ***Account Name*** in Stripe, then push the "***Send***" button again in Postman.
+
+This time we should get a successful response **200 OK**:
+
+```
+{
+    "id": "cs_test_a1iIWMWmpKMmj0H8VU9shhzQaty53jyZMS0VSltGwgwQ0clxvPMTH7Vxwv",
+    "object": "checkout.session",
+    "after_expiration": null,
+    "allow_promotion_codes": null,
+    "amount_subtotal": 2000,
+    "amount_total": 2000,
+    "automatic_tax": {
+        "enabled": false,
+        "status": null
+    },
+    "billing_address_collection": null,
+    "cancel_url": "https://example.com/cancel",
+    "client_reference_id": null,
+    "consent": null,
+    "consent_collection": null,
+    "currency": "usd",
+    "customer": null,
+    "customer_details": null,
+    "customer_email": null,
+    "expires_at": 1642002844,
+    "livemode": false,
+    "locale": null,
+    "metadata": {},
+    "mode": "payment",
+    "payment_intent": "pi_3KGmfgAoGYTOOZ9a1HbwOqhF",
+    "payment_method_options": {},
+    "payment_method_types": [
+        "card"
+    ],
+    "payment_status": "unpaid",
+    "phone_number_collection": {
+        "enabled": false
+    },
+    "recovered_from": null,
+    "setup_intent": null,
+    "shipping": null,
+    "shipping_address_collection": null,
+    "shipping_options": [],
+    "shipping_rate": null,
+    "status": "open",
+    "submit_type": null,
+    "subscription": null,
+    "success_url": "https://example.com/success",
+    "total_details": {
+        "amount_discount": 0,
+        "amount_shipping": 0,
+        "amount_tax": 0
+    },
+    "url": "https://checkout.stripe.com/pay/cs_test_a1iIWMWmpKMmj0H8VU9shhzQaty53jyZMS0VSltGwgwQ0clxvPMTH7Vxwv#fidkdWxOYHwnPyd1blpxYHZxWjA0Tj1hQ0xEakJcUUpKXzxkRGBSbFZdfDdqPENJQG58dk1sUWddfUs2SE9qQ2FHMDZiXD1OS2pBYV9%2Fc0RHX3JEYWR1ZHdfTExsf3BNb1RIV3B1aHJBb0pKNTUwf2lMdVFwYCcpJ2N3amhWYHdzYHcnP3F3cGApJ2lkfGpwcVF8dWAnPyd2bGtiaWBabHFgaCcpJ2BrZGdpYFVpZGZgbWppYWB3dic%2FcXdwYHgl"
+}
+```
+
+
+
+
 
 
 == WE ARE HERE ==
