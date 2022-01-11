@@ -98,7 +98,7 @@ Rename Stripe Environment to "Stripe Environment Template"
 
 Next, we add one variable labeled **secret_key**
 
-
+![image](https://user-images.githubusercontent.com/12828104/148952922-832a7cb9-1ff1-471a-8dcf-1227af70dde3.png)
 
 Stripe Environment Template - secret_key
 
