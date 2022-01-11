@@ -80,7 +80,7 @@ Here you can decide to agree, then click the **Make Profile Public** button.
 
 ![image](https://user-images.githubusercontent.com/12828104/148947190-42fca280-6175-492c-b937-4dc4c8e4bdea.png)
 
-After some time, the Stripe API (here: My StripeDev Fork) will appear in your Postman WorkSpace (here: My Workspace).
+After some time, the Stripe API (here: My StripeDev Fork) will appear in your Postman Workspace (here: My Workspace).
 
 
 
