@@ -70,6 +70,16 @@ You can check ```Watch original collection```, if you so please. It is not manda
 
 Next, click the **Fork Collection** button.
 
+You will be prompted as follows:
+
+![image](https://user-images.githubusercontent.com/12828104/148946669-1c518891-1dcd-4cb7-9b7c-0fd7c3ebea7c.png)
+
+Make your profile public.
+
+Here you can decide to agree, then click the **Make Profile Public** button.
+
+
+
 
 
 
