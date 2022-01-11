@@ -92,9 +92,15 @@ Instead of forking the Stripe Environment, we create a new Environment as shown 
 
 Stripe - Create Environment
 
+![image](https://user-images.githubusercontent.com/12828104/148952040-83a07fca-1564-4b18-b3e1-99675683ee49.png)
+
+Rename Stripe Environment to "Stripe Environment Template"
+
+Next, we add one variable labeled **secret_key**
 
 
 
+Stripe Environment Template - secret_key
 
 
 
