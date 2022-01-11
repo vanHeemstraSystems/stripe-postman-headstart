@@ -160,6 +160,14 @@ Create a Session: body
 
 And then all we have to do is fill out the type of request we are building.
 
+There are many keys, but the ones you ***must*** use are ```cancel_url``` and ```success_url``` no matter waht you are doing. So they are checked by default.
+
+Moving on to the next section!
+
+## 800 - Testing the Stripe Checkout API with Postman
+
+
+
 
 
 
@@ -168,8 +176,6 @@ And then all we have to do is fill out the type of request we are building.
 
 
 == WE ARE HERE ==
-
-## 800 - Testing the Stripe Checkout API with Postman
 
 ## 900 - Testing the Customers API with Postman
 
