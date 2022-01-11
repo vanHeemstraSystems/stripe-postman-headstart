@@ -170,9 +170,21 @@ Moving on to the next section!
 
 ## 800 - Testing the Stripe Checkout API with Postman
 
+Enter the below values in the form for Create a Session:
+
+| Key | Value |
+| --- | --- |
+| cancel_url | https://example.com/cancel |
+| success_url | https://example.com/success |
+| line_items[0][price_data][currency] | usd |
+| line_items[0][price_data][product_data][name] | T-shirt |
+| line_items[0][price_data][unit_amount] | 2000 |
+| line_items[0][quantity] | 1 |
+| mode | payment |
+| payment_method_types[0] | card |
 
 
-
+**Note**: unit amount is in cents, hence why 2000 is 20,00 USD
 
 
 
