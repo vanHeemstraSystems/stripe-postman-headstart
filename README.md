@@ -55,9 +55,16 @@ Create a fork, by opening the dropdown menu from Stripe API as shown below:
 
 Stripe Developers - Stripe API - Create a fork
 
+Forking creates a copy of the collection in your account. You can use its requests or suggest changes without affecting the original.
 
+Complete the following fields as follows:
 
+- Fork label: **My StripeDev Fork** (or any other label you want to give it instead)
+- Location: **My Workspace** (or any other workspce you want it to be located)
 
+![image](https://user-images.githubusercontent.com/12828104/148945524-aa95edac-8d90-43e7-89ba-11157441a9e2.png)
+
+Stripe API - Fork collection
 
 
 
