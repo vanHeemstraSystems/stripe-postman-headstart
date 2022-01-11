@@ -110,10 +110,15 @@ Stripe Environment Template - Current Value: Secret Key
 
 And do not forget to click the **Save** button to save the Stripe Environment Template with the Current Value set.
 
+## 600 - Setting up authentication 
+
+
+
+
+
+
 
 == WE ARE HERE ==
-
-## 600 - Setting up authentication 
 
 ## 700 - Navigating the collection
 
