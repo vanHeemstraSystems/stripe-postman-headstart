@@ -262,6 +262,17 @@ This time we should get a successful response **200 OK**:
 }
 ```
 
+Great!
+
+When following the url as given in the response, https://checkout.stripe.com/pay/cs_test_a1iIWMWmpKMmj0H8VU9shhzQaty53jyZMS0VSltGwgwQ0clxvPMTH7Vxwv#fidkdWxOYHwnPyd1blpxYHZxWjA0Tj1hQ0xEakJcUUpKXzxkRGBSbFZdfDdqPENJQG58dk1sUWddfUs2SE9qQ2FHMDZiXD1OS2pBYV9%2Fc0RHX3JEYWR1ZHdfTExsf3BNb1RIV3B1aHJBb0pKNTUwf2lMdVFwYCcpJ2N3amhWYHdzYHcnP3F3cGApJ2lkfGpwcVF8dWAnPyd2bGtiaWBabHFgaCcpJ2BrZGdpYFVpZGZgbWppYWB3dic%2FcXdwYHgl
+
+we will see the form in Stripe, showing our checkout information:
+
+
+
+
+Stripe Checkout Information
+
 
 
 
