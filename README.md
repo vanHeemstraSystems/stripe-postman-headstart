@@ -162,6 +162,10 @@ And then all we have to do is fill out the type of request we are building.
 
 There are many keys, but the ones you ***must*** use are ```cancel_url``` and ```success_url``` no matter waht you are doing. So they are checked by default.
 
+![image](https://user-images.githubusercontent.com/12828104/148967520-065702ed-fae9-4f5e-ab5e-157b93daf1d7.png)
+
+Create a Session - mandatory keys
+
 Moving on to the next section!
 
 ## 800 - Testing the Stripe Checkout API with Postman
