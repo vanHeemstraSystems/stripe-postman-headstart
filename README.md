@@ -66,6 +66,9 @@ Complete the following fields as follows:
 
 Stripe API - Fork collection
 
+Next, click the **Fork Collection** button.
+
+
 
 
 == WE ARE HERE ==
