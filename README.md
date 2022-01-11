@@ -37,7 +37,9 @@ This should open [StripeDev](https://www.postman.com/stripedev) (only when you a
 
 ![image](https://user-images.githubusercontent.com/12828104/148942595-312216d5-7a1f-474c-82ae-0a1a3327ee8c.png)
 
-StripeDev - Stripe API
+StripeDev Workspace - Stripe API
+
+Click on **Stripe API**, the one without the date.
 
 
 ## 400 - Forking the Stripe API collection
