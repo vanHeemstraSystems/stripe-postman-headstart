@@ -183,11 +183,23 @@ Enter the below values in the form for Create a Session:
 | mode | payment |
 | payment_method_types[0] | card |
 
-
 **Note**: unit amount is in cents, hence why 2000 is 20,00 USD
 
+Now click the **Save** button, followed by **Send**.
 
+As a response we (may) get an error ***400 Bad Request***:
 
+```
+{
+    "error": {
+        "code": "url_invalid",
+        "doc_url": "https://stripe.com/docs/error-codes/url-invalid",
+        "message": "Not a valid URL",
+        "param": "success_url",
+        "type": "invalid_request_error"
+    }
+}
+```
 
 
 
