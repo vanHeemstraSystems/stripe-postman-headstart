@@ -272,7 +272,13 @@ we will see the form in Stripe, showing our checkout information:
 
 Stripe Checkout Information
 
+Enter some made-up card payment details, as follows:
 
+![image](https://user-images.githubusercontent.com/12828104/148977919-3c51de6a-40dc-466d-bb8e-7753c34bbf79.png)
+
+Card Payment Details
+
+Next, click the "***Pay***" button.
 
 
 
