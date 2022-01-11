@@ -130,11 +130,19 @@ That's it for setting up the authentication.
 
 ## 700 - Navigating the collection
 
+The Stripe API Postman Collection has a folder for every API resource Stripe has (e.g. Accounts, Persons, etc).
 
+If you look in any of the folders you will se that it has multiple requests.
 
+For example:
 
+**Checkout**:
 
-
+- List all Checkout Sessions
+- Creat a Session
+- Retrieve a Session
+- Expire a Session
+- Retrieve a Session's line items
 
 
 
