@@ -124,6 +124,8 @@ Replace the value of **Token** by ```{{secret_key}}```:
 
 Secret Key as Token
 
+Make sure to click the **Save** button afterwards.
+
 
 
 
