@@ -23,10 +23,15 @@ It will look something like:
 sk_test_............................................................................
 ```
 
-
-
-
 ## 300 - The Stripe Dev profile and workspace
+
+Open [Postman](https://www.postman.com/downloads/) and from the search bar look for ***StripeDev***. 
+
+![image](https://user-images.githubusercontent.com/12828104/148941214-df1eb29e-3dab-47cc-a4ae-dda55a4c27a6.png)
+
+Postman StripeDev collection
+
+
 
 ## 400 - Forking the Stripe API collection
 
