@@ -150,7 +150,7 @@ So, in the case of ```Checkout```, which we will be using in a moment, you can r
 
 For more information on Checkouts, checkout (pun intended) the video on [Stripe Checkout](https://www.youtube.com/watch?v=UjcSWxPNo18) on Stripe's YouTube Channel.
 
-So, let's create a Checkout Session>
+So, let's create a Checkout Session.
 
 In order to do so, we click on the "***Create a Session***" request, we navigate to the ```body```:
 
