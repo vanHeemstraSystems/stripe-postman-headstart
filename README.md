@@ -280,6 +280,11 @@ Card Payment Details
 
 Next, click the "***Pay***" button.
 
+After the button turning green, we are being transferred to the success URL, as can be seen below:
+
+![image](https://user-images.githubusercontent.com/12828104/148978393-cbd2c2ab-fc00-4a0a-85bc-eb2624412f1a.png)
+
+Example Domain, Success Route
 
 
 
